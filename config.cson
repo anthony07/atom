@@ -1,0 +1,88 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "95611917-04a9-4291-86fa-7f5be2f8f391"
+  "atom-css-comb":
+    readyMadeConfigs: "zen"
+  "atom-terminal-panel": {}
+  "autocomplete-plus": {}
+  core:
+    disabledPackages: [
+      "language-todo"
+      "language-toml"
+      "link"
+      "metrics"
+      "timecop"
+      "autocomplete"
+      "autosave"
+      "styleguide"
+      "open-on-github"
+      "minimap-find-and-replace"
+      "run-command"
+      "language-gfm"
+      "save-session"
+      "minimap-highlight-selected"
+      "minimap-color-highlight"
+      "markdown-preview"
+      "SFTP-deployment"
+      "language-clojure"
+      "spell-check"
+      "wrap-guide"
+    ]
+    themes: [
+      "nucleus-dark-ui"
+      "twilight-erik-syntax"
+    ]
+  "css-comb":
+    config: "csscomb"
+    userConfig: true
+  editor:
+    autoIndentOnPaste: false
+    fontFamily: "Hack"
+    fontSize: 15
+    invisibles: {}
+    preferredLineLength: 150
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    useShadowDOM: false
+  emmet: {}
+  "exception-reporting":
+    userId: "8989a276-f53e-6e47-cbd8-77ee72304018"
+  "git-blame": {}
+  linter: {}
+  metrics:
+    userId: "60fef914ff944f21c2a9a94d2c447af3845ae825"
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "one-dark-ui": {}
+  pigments:
+    markerType: "dot"
+  "release-notes":
+    viewedVersion: "0.95.0"
+  "remote-atom": {}
+  sassbeautify:
+    dasherize: true
+    indent: 2
+  "save-session":
+    dataSaveFolder: "/Users/anthony/.atom/packages/save-session/projects"
+    project: "/opt/palmade/consumer/apps/collab"
+    windowHeight: 1080
+    windowWidth: 1920
+    windowX: 0
+    windowY: 0
+  tabs:
+    showIcons: false
+    usePreviewTabs: true
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
