@@ -45,11 +45,9 @@
     softWrap: true
     softWrapAtPreferredLineLength: true
     useShadowDOM: false
-  emmet: {}
   "exception-reporting":
     userId: "8989a276-f53e-6e47-cbd8-77ee72304018"
   "git-blame": {}
-  linter: {}
   metrics:
     userId: "60fef914ff944f21c2a9a94d2c447af3845ae825"
   minimap:
@@ -69,13 +67,6 @@
   sassbeautify:
     dasherize: true
     indent: 2
-  "save-session":
-    dataSaveFolder: "/Users/anthony/.atom/packages/save-session/projects"
-    project: "/opt/palmade/consumer/apps/collab"
-    windowHeight: 1080
-    windowWidth: 1920
-    windowX: 0
-    windowY: 0
   tabs:
     showIcons: false
     usePreviewTabs: true
